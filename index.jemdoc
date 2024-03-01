@@ -1,11 +1,11 @@
-#jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html} 
 = Wangjiang Wu
 
 ~~~
 {}{img_left}{photo_wwj.png}{alt text}{150 px}{}{photo_wwj.png}
 \n/PhD Student/\n\n
 School of Biomedical Engineering, Southern Medical University\n\n
-Email: [wwj12110303.i.smu.edu.cn]\n\n
+Email: [wwj12110303.i.smu.edu.cn] \n\n
 [CV/CV.pdf /Cirriculum Vitae/] (Under Construction)\n\n
 ~~~
 
@@ -29,7 +29,6 @@ I am currently a PhD student. My research is about the tri-contrast imaging by u
 
 == Conference (First or Corresponding authors)
 . Guocong Shao, et al. "Source Phase Stepping for grating interferometry using Addressable Cold-Cathode Flat-Panel X-ray Source", XNPIG 2024. (Oral Presentation, *Corresponding Author*)
-. *Wu, Wangjiang*, et al. "Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry." Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper *)
-. *Wu, Wangjiang*, et al. "Multi-Resolution Residual Deep Neural Network for Generating Synthetic CT Images with High HU Accuracy and Structural Fidelity", AAPM 2021 Virtual 63rd Annual Meeting. (*Oral Presentation*)
-
+. *Wangjiang, Wu*, et al. "Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry." Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper *)
+. *Wangjiang, Wu*, et al. "Multi-Resolution Residual Deep Neural Network for Generating Synthetic CT Images with High HU Accuracy and Structural Fidelity", AAPM 2021 Virtual 63rd Annual Meeting. (*Oral Presentation*)
 
