@@ -20,3 +20,5 @@ Many thanks to Prof. Xu Ji, Southeast University.
 
 Ref:
 https://szl2.github.io/jemdoc-new-design/www/modelines.html
+https://people.kth.se/~euhanna/index.html
+https://github.com/mkhaled87/jemdoc-ready
