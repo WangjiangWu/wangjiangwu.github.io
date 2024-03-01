@@ -1,0 +1,35 @@
+#jemdoc: menu{MENU}{index.html}
+= Wangjiang Wu
+
+~~~
+{}{img_left}{photo_wwj.png}{alt text}{150 px}{}{photo_wwj.png}
+\n/PhD Student/\n\n
+School of Biomedical Engineering, Southern Medical University\n\n
+Email: [wwj12110303.i.smu.edu.cn]\n\n
+[CV/CV.pdf /Cirriculum Vitae/] (Under Construction)\n\n
+~~~
+
+== Biography
+I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).
+
+== Education
+- Ph. D. Department of Biomedical Engineering, Southern Medical University, Guangzhou. (2021 - 2025)
+- M. S. in Department of Biomedical Engineering, Capital Medical University, Beijing. (2016 - 2019)
+- B. S. in Department of Biomedical Engineering, Capital Medical University, Beijing. (2012 - 2016)
+
+
+== Work Experience
+- Medical Physicist, Department of Radiation Oncology, Peking University Third Hospital. (2019-2021)
+
+== Selected Publications (First or Corresponding authors)
+*Full publication list* can be found in my [CV/CV.pdf /CV (Under Construction)/], [https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en /Google Scholar page/], or [https://www.researchgate.net/profile/Wangjiang-Wu-3/research /Research Gate/].
+. *Wu, Wangjiang*, et al. "Feasibility Study of a Cold-cathode Flat-panel X-ray Source with Micro-array Anode Target for Grating Interferometer Computed Tomography." [https://ieeexplore.ieee.org/document/10296928 /IEEE Transactions on Nuclear Science/ (2023).]
+. *Wu, Wangjiang*, et al. "Multiresolution residual deep neural network for improving pelvic CBCT image quality." [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15460 /Medical Physics/ 49.3 (2022): 1522-1534.]
+
+
+== Coference (First or Corresponding authors)
+. Guocong Shao, et al. "Source Phase Stepping for grating interferometry using Addressable Cold-Cathode Flat-Panel X-ray Source", XNPIG 2024. (Oral Presentation, *Corresponding Author*)
+. *Wu, Wangjiang*, et al. "Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry." Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper *)
+. *Wu, Wangjiang*, et al. "Multi-Resolution Residual Deep Neural Network for Generating Synthetic CT Images with High HU Accuracy and Structural Fidelity", AAPM 2021 Virtual 63rd Annual Meeting. (*Oral Presentation*)
+
+
