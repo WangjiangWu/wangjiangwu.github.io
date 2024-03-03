@@ -1,6 +1,36 @@
 # jemdoc: menu{MENU}{resources.html} 
 
-== Resources
+= Resources
+Related to grating phase contrast imaging, or more generally, X-ray imaging or medical imaging.
 
-- Under construction.
+== Public Data
+- [https://www.nist.gov/pml/x-ray-mass-attenuation-coefficients X-Ray Mass Attenuation Coefficients (NIST)]
+- [https://physics.nist.gov/PhysRefData/FFast/html/form.html X-ray Form Factor, Attenuation, and Scattering Tables (NIST)]
+- [henke.lbl.gov/optical_constants/ X-Ray Interactions With Matter]
+- [https://physics.nist.gov/PhysRefData/Star/Text/ESTAR.html ESTAR (NIST)] (calculates stopping power, density effect parameters, range, and radiation yield tables for electrons)
+
+
+
+== Research Group
+- [https://web.eecs.umich.edu/~fessler/ Prof. Jeffrey Fessler]
+- [https://radiology.uchicago.edu/faculty/xiaochuan-pan-phd Prof. Xiaochuan Pan]
+- [https://medphysics.wisc.edu/research/ct/chen/ Prof. Guanghong Chen's Lab]
+- [https://www.professoren.tum.de/en/pfeiffer-franz Prof. Dr. Franz Pfeiffer's Lab]
+- [https://mml.tagen.tohoku.ac.jp/en/ Momose Lab]
+- [https://istar.jhu.edu/ The I-STAR Lab]
+
+
+== Github Pages
+- [https://github.com/tschoonj/xraylib X-ray Lib]
+- [https://github.com/wangzhentian Prof. Zhentian Wang]
+
+
+
+
+
+
+
+
+
+
 
