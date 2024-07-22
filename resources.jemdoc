@@ -2,13 +2,14 @@
 = Resources
 Related to grating phase contrast imaging, or more generally, X-ray imaging or medical imaging.
 
+== Books
+- [https://www.uni-muenster.de/AMM/num/Preprints/1998/natterer_1/paper.html/fn.html Numerical Methods in Tomography]
+
 == Public Data
 - [https://www.nist.gov/pml/x-ray-mass-attenuation-coefficients X-Ray Mass Attenuation Coefficients (NIST)]
 - [https://physics.nist.gov/PhysRefData/FFast/html/form.html X-ray Form Factor, Attenuation, and Scattering Tables (NIST)]
 - [https://henke.lbl.gov/optical_constants/ X-Ray Interactions With Matter (Henke)]
 - [https://physics.nist.gov/PhysRefData/Star/Text/ESTAR.html ESTAR (NIST)] (calculates stopping power, density effect parameters, range, and radiation yield tables for electrons)
-
-
 
 == Research Groups
 - [https://web.eecs.umich.edu/~fessler/ Prof. Jeffrey Fessler]
@@ -22,6 +23,10 @@ Related to grating phase contrast imaging, or more generally, X-ray imaging or m
 == Github Pages
 - [https://github.com/tschoonj/xraylib X-ray Lib]
 - [https://github.com/wangzhentian Prof. Zhentian Wang]
+
+== Recon Tools
+- [http://people.compute.dtu.dk/pcha/AIRtoolsII/ AIR Tools II]
+- [http://www.openrtk.org/RTK/resources/alternatives.html RTK]
 
 
 
