@@ -24,7 +24,7 @@
 ## Conference (First or Corresponding authors)
 1. **Wangjiang Wu**, et al. "Performance of a Coherent Cold-Cathode Flat-Panel X-Ray Source and Grating Effective Thickness Calculation for Grating-Based Phase Contrast Imaging", AAPM 2024. (*General poster discussion*)
 2. Guocong Shao, Qing Li, Zengxiang Pan, Xiaoye Chen, Xiaoying Zhang, Qi Liu, Guicai Qi, Jun Chen, **Wangjiang Wu\#**, Yuan Xu\#，Linghong Zhou\#. ["Source Phase Stepping for grating interferometry using Addressable Cold-Cathode Flat-Panel X-ray Source"](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15460), XNPIG 2024. (*Oral Presentation, Corresponding Author*)
-3. **Wangjiang Wu**, et al. "Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry." Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper*)
+3. **Wangjiang Wu**, et al. ["Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry."](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124630A/Simulation-study-of-a-novel-ZnO-nanowire-cold-cathode-flat/10.1117/12.2652087.short) Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper*)
 4. **Wangjiang Wu**, et al. "Multi-Resolution Residual Deep Neural Network for Generating Synthetic CT Images with High HU Accuracy and Structural Fidelity", AAPM 2021 Virtual 63rd Annual Meeting. (*Oral Presentation*)
 
 
