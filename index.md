@@ -8,7 +8,7 @@ I am currently a PhD student. My research is about the tri-contrast imaging by u
 
 ### Education
 - Ph. D. in Department of Biomedical Engineering, Southern Medical University, Guangzhou. Supervisor: [Prof. Linghong Zhou](https://portal.smu.edu.cn/swyxgcxy/info/1021/1283.htm) and [Dr. Yuan Xu](https://portal.smu.edu.cn/swyxgcxy/info/1021/2625.htm). (2021 - 2025)
-- M. S. in Department of Biomedical Engineering, Capital Medical University, Beijing. Supervisor: Prof. Zhi Yang. (2016 - 2019)
+- M. S. in Department of Biomedical Engineering, Capital Medical University, Beijing. Supervisor: [Prof. Zhi Yang](http://ccmu.teacher.360eol.com/teacherBasic/preview?teacherId=11459). (2016 - 2019)
 - B. S. in Department of Biomedical Engineering, Capital Medical University, Beijing. (2012 - 2016)
 
 ### Work Experience
