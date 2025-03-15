@@ -15,7 +15,7 @@
 - Medical Physicist, Department of Radiation Oncology, [Peking University Third Hospital](https://en.wikipedia.org/wiki/Peking_University_Third_Hospital). (Aug. 2019 - Aug. 2021)
 
 ## Selected Publications (First or Corresponding authors)
-**Full publication list can be found in my CV, [Google Scholar page](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en), or [Research Gate](https://www.researchgate.net/profile/Wangjiang-Wu-3?ev=hdr_xprf).**
+**Full publication list can be found in [my CV](./CV_WWJ/1_Curriculum_Vitae_20250228.pdf), [Google Scholar page](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en), or [Research Gate](https://www.researchgate.net/profile/Wangjiang-Wu-3?ev=hdr_xprf).**
 1. **Wu, Wangjiang**, et al. "Reconstruction of Cold-Cathode Flat-Panel X-ray Source distribution by Coded Aperture Imaging." IEEE Transactions on Medical Imaging. (*Under Review*)
 2. Xiaoying Zhang, Jiancong Dai, Jun Chen\#, **Wangjiang Wu\#**, and Yuan Xu\#, "Characteristic Analysis of Anode Panel for ZnO Nanowires Cold Cathode Flat-Panel X-ray Source Using Monte Carlo Simulation", Nuclear Science and Techniques, (2024) (*\# co-corresponding author*). (*Accept*)
 3. **Wu, Wangjiang**, et al. ["Feasibility Study of a Cold-cathode Flat-panel X-ray Source with Micro-array Anode Target for Grating Interferometer Computed Tomography."](https://ieeexplore.ieee.org/document/10296928) IEEE Transactions on Nuclear Science (2023).
