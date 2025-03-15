@@ -4,7 +4,7 @@
 [Email](mailto:wwj12110303@i.smu.edu.cn)  /  [Resume](./CV_WWJ/1_Curriculum_Vitae_20250228.pdf)  /  [Google Scholar](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en)  /  [Github](https://github.com/WangjiangWu)
 
 ### Biography
-I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).
+**I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).**
 
 ### Education
 - Ph. D. in Department of Biomedical Engineering, [Southern Medical University](https://en.wikipedia.org/wiki/Southern_Medical_University), Guangzhou. Supervisor: [Prof. Linghong Zhou](https://portal.smu.edu.cn/swyxgcxy/info/1021/1283.htm) and [Dr. Yuan Xu](https://portal.smu.edu.cn/swyxgcxy/info/1021/2625.htm). (Sep. 2021 - June 2025)
