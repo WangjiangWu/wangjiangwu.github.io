@@ -1,6 +1,8 @@
 
 <img src="photo_wwj.png" data-canonical-src="photo_wwj.png" width="189" height="252" />
 
+Email  /  Resume  /  Twitter  /  Google Scholar  /  Github
+
 ### Biography
 I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).
 
