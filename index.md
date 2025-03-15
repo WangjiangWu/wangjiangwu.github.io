@@ -18,8 +18,8 @@
 **Full publication list can be found in my CV, Google Scholar page, or Research Gate.**
 1. **Wu, Wangjiang**, et al. "Reconstruction of Cold-Cathode Flat-Panel X-ray Source distribution by Coded Aperture Imaging." IEEE Transactions on Medical Imaging. (Under Review)
 2. Xiaoying Zhang, Jiancong Dai, Jun Chen\#, **Wangjiang Wu\#**, and Yuan Xu\#, "Characteristic Analysis of Anode Panel for ZnO Nanowires Cold Cathode Flat-Panel X-ray Source Using Monte Carlo Simulation", Nuclear Science and Techniques, (2024) (\# co-corresponding author).
-3. **Wu, Wangjiang**, et al. "Feasibility Study of a Cold-cathode Flat-panel X-ray Source with Micro-array Anode Target for Grating Interferometer Computed Tomography." [https://ieeexplore.ieee.org/document/10296928 /IEEE Transactions on Nuclear Science/ (2023).]
-4. **Wu, Wangjiang**, et al. "Multiresolution residual deep neural network for improving pelvic CBCT image quality." [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15460 /Medical Physics/ 49.3 (2022): 1522-1534.]
+3. **Wu, Wangjiang**, et al. ["Feasibility Study of a Cold-cathode Flat-panel X-ray Source with Micro-array Anode Target for Grating Interferometer Computed Tomography."](https://ieeexplore.ieee.org/document/10296928) IEEE Transactions on Nuclear Science (2023).
+4. **Wu, Wangjiang**, et al. ["Multiresolution residual deep neural network for improving pelvic CBCT image quality."](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15460) Medical Physics 49.3 (2022): 1522-1534.
 
 ## Conference (First or Corresponding authors)
 . *Wangjiang Wu*, et al. "Performance of a Coherent Cold-Cathode Flat-Panel X-Ray Source and Grating Effective Thickness Calculation for Grating-Based Phase Contrast Imaging", AAPM 2024. (*General poster discussion*)
