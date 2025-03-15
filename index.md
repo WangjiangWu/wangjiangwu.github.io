@@ -1,5 +1,5 @@
 
-<img src="photo_wwj.png" data-canonical-src="photo_wwj.png" width="189" height="252" />
+<img src="photo_wwj.png" data-canonical-src="photo_wwj.png" width="150"  />
 
 [Email](mailto:wwj12110303@i.smu.edu.cn)  /  [Resume](./CV_WWJ/1_Curriculum_Vitae_20250228.pdf)  /  [Google Scholar](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en)  /  [Github](https://github.com/WangjiangWu)
 
