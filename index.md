@@ -12,7 +12,7 @@
 - B. S. in Department of Biomedical Engineering, [Capital Medical University](https://en.wikipedia.org/wiki/Capital_Medical_University), Beijing. (Sep. 2012 - June 2016)
 
 ### Work Experience
-- Medical Physicist, Department of Radiation Oncology, Peking University Third Hospital. (Aug 2019 - Aug 2021)
+- Medical Physicist, Department of Radiation Oncology, [Peking University Third Hospital](https://en.wikipedia.org/wiki/Peking_University_Third_Hospital). (Aug 2019 - Aug 2021)
 
 ### Selected Publications (First or Corresponding authors)
 **Full publication list can be found in my CV, Google Scholar page, or Research Gate.**
