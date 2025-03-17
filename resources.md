@@ -5,6 +5,7 @@
 <a name='deep_learning'></a>
 
 ### Deep Learning
+- [VAEs ](https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/)
 - [Convolutional neural network Wiki](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [C. Olah' Blog](https://colah.github.io/)
