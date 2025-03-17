@@ -5,6 +5,7 @@
 <a name='deep_learning'></a>
 
 ### Deep Learning
+- [Convolutional neural network Wiki](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [C. Olah' Blog](https://colah.github.io/)
 - [Vision Transformers](https://towardsdatascience.com/tag/vision-transformers/)
