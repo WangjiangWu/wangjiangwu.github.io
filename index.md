@@ -3,7 +3,7 @@
 
 [Email](mailto:wwj12110303@i.smu.edu.cn)  /  [Resume](./CV_WWJ/1_Curriculum_Vitae_20250228.pdf)  /  [Google Scholar](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en)  /  [Github](https://github.com/WangjiangWu)
 
-[Biography](#biography)  /  [Selected Publications](#selected_publications)
+[Biography](#biography)  /  [Selected Publications](#selected_publications)  /  [Conference](#conference)
 
 <a name='biography'></a>
 ## Biography
@@ -25,6 +25,7 @@
 3. **Wu, Wangjiang**, et al. ["Feasibility Study of a Cold-cathode Flat-panel X-ray Source with Micro-array Anode Target for Grating Interferometer Computed Tomography."](https://ieeexplore.ieee.org/document/10296928) IEEE Transactions on Nuclear Science (2023).
 4. **Wu, Wangjiang**, et al. ["Multiresolution residual deep neural network for improving pelvic CBCT image quality."](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15460) Medical Physics 49.3 (2022): 1522-1534.
 
+<a name='conference'></a>
 ## Conference (First or Corresponding authors)
 1. Guocong Shao, Qing Li, Zengxiang Pan, Xiaoye Chen, Xiaoying Zhang, Qi Liu, Guicai Qi, Jun Chen, **Wangjiang Wu\#**, Yuan Xu\#，Linghong Zhou\#. ["Source Phase Stepping for grating interferometry using Addressable Cold-Cathode Flat-Panel X-ray Source"](https://mm.scimeeting.cn/en/web/index/19821_1924472), XNPIG 2024. (*Oral Presentation, Corresponding Author*)
 2. **Wangjiang Wu**, et al. ["Simulation study of a novel ZnO nanowire cold cathode flat-panel x-ray source using EGSnrc for Talbot-Lau type grating interferometry."](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124630A/Simulation-study-of-a-novel-ZnO-nanowire-cold-cathode-flat/10.1117/12.2652087.short) Medical Imaging 2023: Physics of Medical Imaging. Vol. 12463. SPIE, 2023. (*Oral Presentation + Paper*)
