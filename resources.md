@@ -5,8 +5,9 @@
 <a name='deep_learning'></a>
 
 ### Deep Learning
+
 - [C. Olah](https://colah.github.io/)
-- [Vision-Transformers-Or-Convolutional-Neural-Networks-Both](https://towardsdatascience.com/vision-transformers-or-convolutional-neural-networks-both-de1a2c3c62e4/)
+- [Vision Transformers](https://towardsdatascience.com/tag/vision-transformers/)
 - [Convolutional-Network](https://towardsdatascience.com/tag/convolutional-network/)
 - [Cnn-Explainer](https://github.com/poloclub/cnn-explainer)
 - [nntutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md) 
