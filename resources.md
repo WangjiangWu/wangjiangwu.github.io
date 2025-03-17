@@ -9,6 +9,7 @@
 - [C. Olah' Blog](https://colah.github.io/)
 
 ### Deep Learning
+- *'ChatGPT, Llama, DeepSeek, ...'*
 - **Deep Learning Tutorial:** [NNtutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md), [cs231n](https://cs231n.github.io/), [Neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html), [Deeplearningbook](https://www.deeplearningbook.org/) 
 - [The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data](https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/)
 
