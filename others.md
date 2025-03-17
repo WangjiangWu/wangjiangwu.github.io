@@ -1,5 +1,5 @@
 
-[For PhD student](#for_phd_student)  [Deep Learning](#deep_learning)
+[For PhD student](#for_phd_student)  /  [Deep Learning](#deep_learning)
 
 <a name='for_phd_student'></a>
 
