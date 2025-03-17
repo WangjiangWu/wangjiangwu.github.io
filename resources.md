@@ -5,7 +5,7 @@
 <a name='deep_learning'></a>
 
 ### Deep Learning
-
+- [Towards Data Science](https://towardsdatascience.com/)
 - [C. Olah](https://colah.github.io/)
 - [Vision Transformers](https://towardsdatascience.com/tag/vision-transformers/)
 - [Convolutional-Network](https://towardsdatascience.com/tag/convolutional-network/)
