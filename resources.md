@@ -25,6 +25,9 @@
 
 - **CNN:** [Convolutional-Network](https://towardsdatascience.com/tag/convolutional-network/),  /  [Convolutional Neural Network Wiki](https://en.wikipedia.org/wiki/Convolutional_neural_networ), [Cnn-Explainer](https://github.com/poloclub/cnn-explainer), [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/docs.html)
 
+### Math
+- [Fourier Series](https://github.com/n3times/jupyter/blob/master/Fourier%20Series.ipynb)
+
 <a name='for_phd_student'></a>
 
 ### For PhD Student
