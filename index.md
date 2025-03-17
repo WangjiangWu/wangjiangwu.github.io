@@ -3,7 +3,7 @@
 
 [Email](mailto:wwj12110303@i.smu.edu.cn)  /  [Resume](./CV_WWJ/1_Curriculum_Vitae_20250228.pdf)  /  [Google Scholar](https://scholar.google.com/citations?user=j8PmNI4AAAAJ&hl=en)  /  [Github](https://github.com/WangjiangWu)
 
-[Biography](#biography)  /  [Selected Publications](#selected_publications)  /  [Conference](#conference)  /  [Others](./others.md)
+[Biography](#biography)  /  [Selected Publications](#selected_publications)  /  [Conference](#conference)  /  [Resources](./resources.md)
 
 <a name='biography'></a>
 ## Biography
