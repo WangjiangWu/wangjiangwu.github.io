@@ -9,7 +9,7 @@
 - [C. Olah' Blog](https://colah.github.io/)
 
 ### Deep Learning
-- *ChatGPT, Llama, DeepSeek, ...*
+*ChatGPT, Llama, DeepSeek, ...*
 - **Deep Learning Tutorial:** [NNtutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md), [cs231n](https://cs231n.github.io/), [Neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html), [Deeplearningbook](https://www.deeplearningbook.org/) 
 
 - **Multimodal:** [Multimodal Search Engine Agents Powered by BLIP-2 and Gemini](https://towardsdatascience.com/multimodal-search-engine-agents-powered-by-blip-2-and-gemini/)
