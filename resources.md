@@ -14,6 +14,8 @@
 
 - **Deep Learning Tutorial:** [NNtutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md), [cs231n](https://cs231n.github.io/), [Neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html), [Deeplearningbook](https://www.deeplearningbook.org/) 
 
+- **AI Agent:**
+
 - **Multimodal:** [Multimodal Search Engine Agents Powered by BLIP-2 and Gemini](https://towardsdatascience.com/multimodal-search-engine-agents-powered-by-blip-2-and-gemini/)
 
 - **NERF:** [nerf_sc231n](https://github.com/cs231n/cs231n.github.io/blob/master/nerf.md)
