@@ -36,3 +36,4 @@
 ### For PhD Student
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
+- [Do I Need to Go to University?](https://colah.github.io/posts/2020-05-University/)
