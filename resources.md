@@ -26,7 +26,7 @@
 
 - **Deep Reinforcement Learning:** [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/)
 
-- **Transformer:** [Vision Transformers](https://towardsdatascience.com/tag/vision-transformers/),  /  [Transformers](https://towardsdatascience.com/tag/transformers/),  /  ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
+- **Transformer:** [Vision Transformers](https://towardsdatascience.com/tag/vision-transformers/),  /  [Transformers](https://towardsdatascience.com/tag/transformers/),  /  ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762),  /  [transformers_cs231](https://github.com/cs231n/cs231n.github.io/blob/c03aea35d08e1b02913dec009171951f3c44f4e2/transformers.md)
 
 - **CNN:** [Convolutional-Network](https://towardsdatascience.com/tag/convolutional-network/),  /  [Convolutional Neural Network Wiki](https://en.wikipedia.org/wiki/Convolutional_neural_networ), [Cnn-Explainer](https://github.com/poloclub/cnn-explainer), [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/docs.html)
 
