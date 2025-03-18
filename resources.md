@@ -16,6 +16,8 @@
 
 - **Multimodal:** [Multimodal Search Engine Agents Powered by BLIP-2 and Gemini](https://towardsdatascience.com/multimodal-search-engine-agents-powered-by-blip-2-and-gemini/)
 
+- **NERF:** [nerf_sc231n](https://github.com/cs231n/cs231n.github.io/blob/master/nerf.md)
+
 - **Diffusion:**
 
 - **Variational Autoencoders (VAE):** [The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data](https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/)
