@@ -12,7 +12,7 @@
 
 *ChatGPT, Llama, DeepSeek, AI Agent ...*
 
-- **Deep Learning Tutorial:** [NNtutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md), [cs231n](https://cs231n.github.io/), [Neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html), [Deeplearningbook](https://www.deeplearningbook.org/) 
+- **Deep Learning Tutorial:** [NNtutorial](https://github.com/karpathy/karpathy.github.io/blob/master/nntutorial.md), [cs231n](https://cs231n.github.io/), [Neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html), [Deeplearningbook](https://www.deeplearningbook.org/), [NYU DeepLearning](https://atcold.github.io/NYU-DLSP20/)
 
 - **AI Agent:**
 
