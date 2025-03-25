@@ -37,6 +37,9 @@
 
 <a name='for_phd_student'></a>
 
+### Coding
+- [Complete C Programming Course from Dr. Chuck](https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
+
 ### For PhD Student
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
