@@ -7,7 +7,7 @@
 
 <a name='biography'></a>
 ## Biography
-**I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).**
+**I am currently a PhD student. My research is about the tri-contrast imaging by using cold-cathode flat-panel X-ray source (FPXS).** Click [here](./PHD_Intro/phd_project_intro.pdf) for more information about my Ph.D research.
 
 ## Education
 - Ph.D. in Department of Biomedical Engineering, [Southern Medical University](https://en.wikipedia.org/wiki/Southern_Medical_University), Guangzhou. Supervisor: [Prof. Linghong Zhou](https://portal.smu.edu.cn/swyxgcxy/info/1021/1283.htm) and [Dr. Yuan Xu](https://portal.smu.edu.cn/swyxgcxy/info/1021/2625.htm). (Sep. 2021 - June 2025)
